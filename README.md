@@ -1,2 +1,4 @@
 # CHI-CityTech.github.io
-For the CHI Website
+Welcome to our baby Website!
+
+[Spring 2025 Project Opportunities]()
