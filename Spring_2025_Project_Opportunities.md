@@ -6,7 +6,7 @@ Whether you are an engineer, graphic artist, designer, programmer, manager, stor
 
 Students can engage in CHI projects by extending existing initiatives, launching new investigations within our current framework, or proposing entirely new areas of exploration. Participation is open through programs like the **Emerging Scholars Program (ESP)**, independent studies, internships, or culmination projects.
 
-The list below highlights some of the exciting possibilities awaiting you. For a more complete set of project ideas, **[click here or visit this link](#)** to explore the full repository of research topics and opportunities.
+The list below highlights some of the exciting possibilities awaiting you. For a more complete set of project ideas, **[click here or visit this link](https://sites.google.com/view/balancedblendedspace/projects)** to explore the full repository of research topics and opportunities.
 
 ---
 
