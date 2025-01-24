@@ -19,6 +19,13 @@ The list below highlights some of the exciting possibilities awaiting you. For a
 
 ---
 
+### Develop Sets and Costumes?
+- **Create Costumes for live performances:** Design and construct costumes that are used for both human and puppet type characters 
+- **Create and extend theatrical spaces** Design and construct innovative staging that uses stretched fabrics, projections, and dynamic manipulation to tell a story
+- **Work with other creatives** Develop your concepts in conjunction with other designers in an interdisciplinary team to create a group project.
+
+---
+
 ### Build a Fictive World?
 - **Develop Lore and Histories:** Create engaging narratives, cultures, and histories to populate a richly detailed fictional world. Use tools like **WorldAnvil** to organize and present your work.  
 - **Expand Mythologies and Philosophies:** Enrich the world with interconnected stories, belief systems, and philosophies that deepen its authenticity.  
