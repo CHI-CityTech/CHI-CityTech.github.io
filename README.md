@@ -6,3 +6,5 @@ Welcome to our baby Website!
 [CHI Integrated Digital System (CHIIDS)](https://docs.google.com/document/d/1X0aqvqdeZxtAF902jXT1ZbHkHBc3ir7pMu6n1M7OTQ4/edit?tab=t.0#heading=h.tdhe31bdrfnc)
 
 [CHI Team GitHub Onboarding Document](https://github.com/CHI-CityTech/StudentResearch/wiki/Tutorial-GitHub-Onboarding-&-Project-Management)
+
+[Introduction to AI Course Proposal Syllabus](https://github.com/CHI-CityTech/Curriculum/blob/main/Introduction%20to%20AI/Intro_to_AI_Syllabus01.md)
